@@ -3,7 +3,8 @@
 </div>
 
 ## <img src="https://yuis.xsrv.jp/images/ss/d1ccb027cb74358f8c5b5eff0d9c087d.gif" width="60"/> Hi, Fumiya here 🐱‍💻 | **Solo dev** 🇯🇵 since 2016
-*Next.js/TypeScript | Nginx/Ubuntu | Grafana/Prometheus* <img src="https://lab2.yuipcoders.com/trk/github-profile/empty.gif">
+*Next.js/TypeScript | Nginx/Ubuntu | Grafana/Prometheus* 
+<br />
 
 <p align="left">Hi! I'm a <strong>solo developer</strong> (who doesn't code with other programmers) from Tokyo, Japan.</p>
 
@@ -31,7 +32,6 @@
 <!--Profile Count Badge-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yuis-ice&label=Profile%20views&color=770677&style=for-the-badge&logo=star" style="padding-right:20px;" />
-  <img src="https://lab2.yuipcoders.com/trk/github-profile-footer/empty.gif">
   <br />
   <sub>*Count restarted in Feb 2025</sub>
 </p>
