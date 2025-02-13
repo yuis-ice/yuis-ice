@@ -30,7 +30,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yuis-ice&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=yuis-ice&label=Profile%20views&color=770677&style=for-the-badge&logo=star" style="padding-right:20px;" />
   <img src="https://lab2.yuipcoders.com/trk/github-profile-footer/empty.gif">
   <br />
   <sub>*Count restarted in Feb 2025</sub>
