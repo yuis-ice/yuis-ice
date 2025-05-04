@@ -18,7 +18,7 @@
   <img align="right" width="40%" src="https://yuis.xsrv.jp/images/ss/ShareX-250213T170129-EbNdlt1I~ShareX-ShareX_-_Image_viewer.png">
 </div>
 
-<img src="https://yuis.xsrv.jp/images/ss/67298b77c86231ffb42126c4954f9b39.gif" width="110"/> **Seeking a Relationship?**  
+<img src="https://yuis.xsrv.jp/images/ss/67298b77c86231ffb42126c4954f9b39.gif" width="110"/> **Seeking a Relationship?** <sub>*2</sub> 
 
 - He/Him, Not a minority | **Single as of Feb 2025**  
 - Looking for an <strong>Asian <sub>*1</sub> partner</strong>
@@ -26,6 +26,7 @@
 - Preferably in the **web or online marketing field**  
 
 <sub>*1: Limited to individuals from Indonesia, India, Japan, Malaysia, Thailand, or Vietnam, as I appreciate these countries and am open to learning more about their cultures and people.</sub>  
+<sub>*2: Availability may vary over time; please verify availability accordingly. | 募集状況は時期によるため適時要確認</sub>  
 
 ---
 
