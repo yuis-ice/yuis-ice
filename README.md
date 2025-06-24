@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="README.md">🇺🇸 English</a> | 
+  <a href="README.ja.md">🇯🇵 日本語</a> | 
+  <a href="README.zh.md">🇨🇳 中文</a> | 
+  <a href="README.es.md">🇪🇸 Español</a> | 
+  <a href="README.de.md">🇩🇪 Deutsch</a>
+</div>
+
 <div>
   <img align="right" width="40%" src="https://yuis.xsrv.jp/images/ss/_58997ddc-4520-4a83-b01f-ac4f6d92be98-removebg-preview%20-%20Copy.png">
 </div>
@@ -13,9 +21,6 @@
 - Focused on **AI-driven development** and cutting-edge technologies to drive innovation  
 - **Not publicly sharing my blogs and websites** | Earns affiliate commissions and sells personal products and digital items.  
 
-<div>
-  <img align="right" width="40%" src="https://yuis.xsrv.jp/images/ss/ShareX-250213T170129-EbNdlt1I~ShareX-ShareX_-_Image_viewer.png">
-</div>
 
 <details>
 <summary><img src="https://yuis.xsrv.jp/images/ss/67298b77c86231ffb42126c4954f9b39.gif" width="110"/> <strong>Seeking a Relationship?</strong> <sub>*2</sub></summary>

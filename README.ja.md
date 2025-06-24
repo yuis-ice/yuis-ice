@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="README.md">🇺🇸 English</a> | 
+  <a href="README.ja.md">🇯🇵 日本語</a> | 
+  <a href="README.zh.md">🇨🇳 中文</a> | 
+  <a href="README.es.md">🇪🇸 Español</a> | 
+  <a href="README.de.md">🇩🇪 Deutsch</a>
+</div>
+
 <div>
   <img align="right" width="40%" src="https://yuis.xsrv.jp/images/ss/_58997ddc-4520-4a83-b01f-ac4f6d92be98-removebg-preview%20-%20Copy.png">
 </div>
@@ -13,9 +21,6 @@
 - **AI駆動開発**と最先端技術によるイノベーション推進に注力  
 - **ブログやウェブサイトは非公開** | アフィリエイト収入や個人商品・デジタルアイテムの販売で収益化  
 
-<div>
-  <img align="right" width="40%" src="https://yuis.xsrv.jp/images/ss/ShareX-250213T170129-EbNdlt1I~ShareX-ShareX_-_Image_viewer.png">
-</div>
 
 <details>
 <summary><img src="https://yuis.xsrv.jp/images/ss/67298b77c86231ffb42126c4954f9b39.gif" width="110"/> <strong>恋人募集中？</strong> <sub>*2</sub></summary>

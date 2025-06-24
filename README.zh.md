@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="README.md">🇺🇸 English</a> | 
+  <a href="README.ja.md">🇯🇵 日本語</a> | 
+  <a href="README.zh.md">🇨🇳 中文</a> | 
+  <a href="README.es.md">🇪🇸 Español</a> | 
+  <a href="README.de.md">🇩🇪 Deutsch</a>
+</div>
+
 <div>
   <img align="right" width="40%" src="https://yuis.xsrv.jp/images/ss/_58997ddc-4520-4a83-b01f-ac4f6d92be98-removebg-preview%20-%20Copy.png">
 </div>
@@ -13,9 +21,6 @@
 - 专注于**AI驱动开发**和前沿技术以推动创新  
 - **不公开分享我的博客和网站** | 通过联盟营销佣金和销售个人产品及数字商品获得收入  
 
-<div>
-  <img align="right" width="40%" src="https://yuis.xsrv.jp/images/ss/ShareX-250213T170129-EbNdlt1I~ShareX-ShareX_-_Image_viewer.png">
-</div>
 
 <details>
 <summary><img src="https://yuis.xsrv.jp/images/ss/67298b77c86231ffb42126c4954f9b39.gif" width="110"/> <strong>寻找恋人？</strong> <sub>*2</sub></summary>
