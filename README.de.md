@@ -19,7 +19,7 @@
 - Mitte 20 | Mag Pinguine, Füchse und Kaninchen  
 - Leidenschaftlich für **Open-Source-Beiträge** und **gesellschaftliche Umsetzung** von Technologielösungen  
 - Fokussiert auf **KI-gesteuerte Entwicklung** und Spitzentechnologien zur Innovationsförderung  
-- **Aktueller Fokus**: Studiere **Bioinformatik** an der **UTokyo**  
+- **Aktueller Fokus**: Studiere **Bioinformatik** an einer **Graduiertenschule**  
 
 
 <details>
