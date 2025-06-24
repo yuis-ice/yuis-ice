@@ -19,7 +19,7 @@
 - Mitte 20 | Mag Pinguine, Füchse und Kaninchen  
 - Leidenschaftlich für **Open-Source-Beiträge** und **gesellschaftliche Umsetzung** von Technologielösungen  
 - Fokussiert auf **KI-gesteuerte Entwicklung** und Spitzentechnologien zur Innovationsförderung  
-- **Teile meine Blogs und Websites nicht öffentlich** | Verdiene durch Affiliate-Provisionen und Verkauf von persönlichen Produkten und digitalen Artikeln  
+- **Aktueller Fokus**: Studiere **Bioinformatik** an der **UTokyo**  
 
 
 <details>

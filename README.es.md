@@ -19,7 +19,7 @@
 - Mediados de los 20 | Me gustan los pingüinos, zorros y conejos  
 - Apasionado por las **contribuciones de código abierto** y la **implementación social** de soluciones tecnológicas  
 - Enfocado en el **desarrollo impulsado por IA** y tecnologías de vanguardia para impulsar la innovación  
-- **No comparto públicamente mis blogs y sitios web** | Obtengo ingresos por comisiones de afiliados y venta de productos personales y artículos digitales  
+- **Enfoque Actual**: Estudiando **Bioinformática** en **UTokyo**  
 
 
 <details>

@@ -19,7 +19,7 @@
 - Mid-20s | Likes penguins, foxes, and rabbits.  
 - Passionate about **open-source contributions** and **social implementation** of technology solutions  
 - Focused on **AI-driven development** and cutting-edge technologies to drive innovation  
-- **Not publicly sharing my blogs and websites** | Earns affiliate commissions and sells personal products and digital items.  
+- **Current Focus**: Pursuing **Bioinformatics** at **UTokyo**  
 
 
 <details>
