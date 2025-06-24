@@ -23,7 +23,7 @@
 
 
 <details>
-<summary><img src="https://yuis.xsrv.jp/images/ss/67298b77c86231ffb42126c4954f9b39.gif" width="110"/> <strong>Seeking a Relationship?</strong> <sub>*2</sub></summary>
+<summary><strong>Seeking a Relationship?</strong> <sub>*2</sub></summary>
 
 - He/Him, Not a minority | **Single as of Feb 2025**  
 - Looking for an <strong>Asian <sub>*1</sub> partner</strong>
@@ -33,6 +33,17 @@
 <sub>*1: Limited to individuals from Indonesia, India, Japan, Malaysia, Thailand, or Vietnam, as I appreciate these countries and am open to learning more about their cultures and people.</sub>  
 <sub>*2: Availability may vary over time; please verify availability accordingly.</sub>
 </details>  
+
+<details>
+<summary><strong>Seeking a help from Austria?</strong></summary>
+
+- Currently exploring opportunities to relocate to **Austria (Österreich)**
+- Interested in remote work or on-site positions in **tech/development field**
+- Learning German to better integrate into Austrian culture and workplace
+- Open to collaborating with Austrian companies or startups
+- Fascinated by Austria's innovation ecosystem and quality of life
+
+</details>
 
 ---
 

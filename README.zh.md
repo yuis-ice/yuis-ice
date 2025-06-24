@@ -23,7 +23,7 @@
 
 
 <details>
-<summary><img src="https://yuis.xsrv.jp/images/ss/67298b77c86231ffb42126c4954f9b39.gif" width="110"/> <strong>寻找恋人？</strong> <sub>*2</sub></summary>
+<summary><strong>寻找恋人？</strong> <sub>*2</sub></summary>
 
 - 男性，非少数群体 | **截至2025年2月单身**  
 - 寻找<strong>亚洲<sub>*1</sub>伴侣</strong>
@@ -33,6 +33,17 @@
 <sub>*1：仅限来自印度尼西亚、印度、日本、马来西亚、泰国或越南的人，因为我欣赏这些国家，并愿意更多地了解他们的文化和人民。</sub>  
 <sub>*2：可用性可能随时间而变化；请相应地验证可用性。</sub>
 </details>  
+
+<details>
+<summary><strong>寻求奥地利的帮助？</strong></summary>
+
+- 目前正在探索迁移到**奥地利（Österreich）**的机会
+- 对**技术/开发领域**的远程工作或现场职位感兴趣
+- 正在学习德语以更好地融入奥地利文化和职场
+- 愿意与奥地利公司或初创企业合作
+- 对奥地利的创新生态系统和生活质量很着迷
+
+</details>
 
 ---
 

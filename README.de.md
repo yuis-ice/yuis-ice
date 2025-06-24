@@ -23,7 +23,7 @@
 
 
 <details>
-<summary><img src="https://yuis.xsrv.jp/images/ss/67298b77c86231ffb42126c4954f9b39.gif" width="110"/> <strong>Auf der Suche nach einer Beziehung?</strong> <sub>*2</sub></summary>
+<summary><strong>Auf der Suche nach einer Beziehung?</strong> <sub>*2</sub></summary>
 
 - Er/Ihm, Keine Minderheit | **Single seit Februar 2025**  
 - Suche eine <strong>asiatische<sub>*1</sub> Partnerin</strong>
@@ -33,6 +33,17 @@
 <sub>*1: Beschränkt auf Personen aus Indonesien, Indien, Japan, Malaysia, Thailand oder Vietnam, da ich diese Länder schätze und offen bin, mehr über ihre Kulturen und Menschen zu lernen.</sub>  
 <sub>*2: Die Verfügbarkeit kann sich mit der Zeit ändern; bitte entsprechend überprüfen.</sub>
 </details>  
+
+<details>
+<summary><strong>Suche Hilfe aus Österreich?</strong></summary>
+
+- Erkunde derzeit Möglichkeiten, nach **Österreich** zu ziehen
+- Interessiert an Remote-Arbeit oder Vor-Ort-Positionen im **Tech/Entwicklungsbereich**
+- Lerne Deutsch, um mich besser in die österreichische Kultur und Arbeitswelt zu integrieren
+- Offen für die Zusammenarbeit mit österreichischen Unternehmen oder Startups
+- Fasziniert vom Innovationsökosystem Österreichs und der Lebensqualität
+
+</details>
 
 ---
 
